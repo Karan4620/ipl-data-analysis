@@ -21,5 +21,3 @@ This project analyzes **Indian Premier League (IPL)** ball-by-ball data using **
 - **Toss Advantage**: Do toss winners actually win?
 - **Venue-Based Scoring**: Average and max scores across IPL stadiums
 - **Wicket Fall Patterns**
-
-Rahul is here
